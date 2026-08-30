@@ -1,0 +1,24 @@
+{
+  "name": "Tedarila — B2B Ekipman Kiralama",
+  "short_name": "Tedarila",
+  "description": "Türkiye'nin B2B Kurumsal Ekipman Kiralama ve Tedarik Pazaryeri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1b6ef5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/tedarila_logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/tedarila_logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
